@@ -1,0 +1,29 @@
+body{
+  background: url(./fotot/aboutus1.jpg) no-repeat;
+  background-size: cover;
+}
+
+.bx{
+    width: 700px;
+    height: 500px;
+    background-color: black;
+    opacity: 0.9;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.wlc{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+.wlc h1{
+    padding-bottom: 50px;
+}
+.foto1{
+    width: 700px;
+    height: 300px;
+}
+
+ 
