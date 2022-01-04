@@ -5,7 +5,7 @@ body{
 
 .bx{
     width: 700px;
-    height: 500px;
+    height: 700px;
     background-color: black;
     opacity: 0.9;
     margin: 0 auto;
@@ -15,15 +15,10 @@ body{
 .wlc{
     color: #fff;
     font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    padding-top: 10px;
+    text-align: justify;
+    padding: 10px 10px 10px 10px;
 }
 .wlc h1{
     padding-bottom: 50px;
+    text-align: center;
 }
-.foto1{
-    width: 700px;
-    height: 300px;
-}
-
- 
