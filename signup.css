@@ -1,4 +1,8 @@
-* {box-sizing: border-box}
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+}
 
 /* Full-width input fields */
   input[type=text], input[type=password] {
